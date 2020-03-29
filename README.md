@@ -84,11 +84,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Project Link: [https://github.com/marcosmarcon/semana-omnistack-11](https://github.com/marcosmarcon/semana-omnistack-11)
 
-
+Linkedin: [https://www.linkedin.com/in/marcos-marcon-048a7855/](https://www.linkedin.com/in/marcos-marcon-048a7855/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/badge/License-MIT-blue.svg
+[license-url]: https://opensource.org/licenses/MIT
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: linkedin.com/in/marcos-marcon-048a7855
+
