@@ -91,5 +91,5 @@ Linkedin: [https://www.linkedin.com/in/marcos-marcon-048a7855/](https://www.link
 [license-shield]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: https://opensource.org/licenses/MIT
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: linkedin.com/in/marcos-marcon-048a7855
+[linkedin-url]: https://www.linkedin.com/in/marcos-marcon-048a7855/
 
